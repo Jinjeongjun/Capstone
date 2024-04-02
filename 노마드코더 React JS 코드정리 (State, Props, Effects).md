@@ -1,5 +1,5 @@
-## State
-# <버튼 클릭 시 +1 되는 기능>
+# State
+## <버튼 클릭 시 +1 되는 기능>
 <!DOCTYPE html>
 <html>
   <body>
@@ -27,7 +27,7 @@
   </script>
 </html>
 
-# <단위 변환 (hours - minutes, km - miles)>
+## <단위 변환 (hours - minutes, km - miles)>
 <!DOCTYPE html>
 <html>
   <body>
@@ -147,7 +147,7 @@
   </script>
 </html>
 
-## Props
+# Props
 <!DOCTYPE html>
 <html>
   <body>
@@ -193,8 +193,8 @@
 </html>
  
 
-## Effects
-# <useEffect 기능 사용법>
+# Effects
+## <useEffect 기능 사용법>
 import { useState, useEffect } from 'react';
 
 function App() {
